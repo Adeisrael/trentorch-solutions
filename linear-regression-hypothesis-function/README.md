@@ -1,6 +1,6 @@
 # Hypothesis Function
 
-Beginner | classical-ml | linear-regression | forward-pass
+Classical-ml | linear-regression | forward-pass
 
 ### The problem, from first principles
 
